@@ -113,4 +113,4 @@ The result of multiplying 4728 by 391 is 1848648.
 ---
 
 ## 👤 Author
-**Sufian Kanaan** — [LinkedIn](https://www.linkedin.com/in/sufian-kanaan-5217a1196/)
+**Sufian Kanaan** — [LinkedIn](https://www.linkedin.com/in/sufian-kanaan/)
